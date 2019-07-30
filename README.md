@@ -57,11 +57,3 @@ The columns in the data set are currently not named and as you can see, there ar
 The first column takes two values, 'ham' which signifies that the message is not spam, and 'spam' which signifies that the message is spam. 
 
 The second column is the text content of the SMS message that is being classified.
-
-**Features**
-1.  `RM`: average number of rooms per dwelling
-2. `LSTAT`: percentage of population considered lower status
-3. `PTRATIO`: pupil-teacher ratio by town
-
-**Target Variable**
-4. `MEDV`: median value of owner-occupied homes
