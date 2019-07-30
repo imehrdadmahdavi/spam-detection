@@ -49,8 +49,8 @@ We will be using a [dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Co
 
 
  ** Here's a preview of the data: ** 
-
-<img src="images/dqnb.png" height="1242" width="1242">
+ 
+![alt text](images/dqnb.png "Logo Title Text 1")
 
 The columns in the data set are currently not named and as you can see, there are 2 columns. 
 
