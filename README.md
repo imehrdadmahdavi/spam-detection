@@ -48,9 +48,9 @@ This will open the Jupyter Notebook software and project file in your browser.
 We will be using a [dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) from the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. The direct data link is [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/).
 
 
- ** Here's a preview of the data: ** 
+ **Here's a preview of the data:** 
  
-![alt text](images/dqnb.png "Logo Title Text 1")
+![SMS](images/dqnb.png "SMS")
 
 The columns in the data set are currently not named and as you can see, there are 2 columns. 
 
