@@ -9,7 +9,7 @@ Usually they have words like 'free', 'win', 'winner', 'cash', 'prize', or simila
 
 Being able to identify spam messages is a binary classification problem as messages are classified as either 'Spam' or 'Not Spam' and nothing else. We will be feeding a labelled dataset into the model, that it can learn from, to make future predictions.
 
-This projecs uses the sklearn implementation of Naive Bayes and also discuss approaches to build Naive Baye from scratch.
+This projecs uses the sklearn implementation of the Naive Bayes and also discuss approaches to build Naive Baye from scratch.
 
 
 ### Install
