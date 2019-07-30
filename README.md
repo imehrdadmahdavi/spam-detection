@@ -23,11 +23,9 @@ This project requires **Python 3.7** and the following Python libraries installe
 - [matplotlib 2.2.4](http://matplotlib.org/)
 - [scikit-learn 0.19.2](http://scikit-learn.org/stable/)
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
-
 ### Code
 
-Template code is provided in the `spam-detection.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work.
+Template code is provided in the `spam-detection.ipynb` notebook file.
 
 ### Run
 
@@ -45,7 +43,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-We will be using a [dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) from the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. The direct data link is [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/).
+This project uses a [dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) from the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. The direct data link is [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/).
 
 
  **Here's a preview of the data:** 
