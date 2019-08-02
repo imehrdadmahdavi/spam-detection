@@ -25,7 +25,7 @@ This project requires **Python 3.7** and the following Python libraries installe
 
 ### Code
 
-Template code is provided in the `spam-detection.ipynb` notebook file.
+The code is provided in the `spam-detection.ipynb` notebook file.
 
 ### Run
 
