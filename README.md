@@ -1,4 +1,4 @@
-## Spam Delection
+## Spam Detection
 
 ### Description
 
